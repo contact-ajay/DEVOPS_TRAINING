@@ -1,1 +1,1 @@
-$PARAM1
+echo "Hi Ajay"
